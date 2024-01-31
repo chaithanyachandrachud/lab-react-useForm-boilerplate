@@ -1,0 +1,31 @@
+.parent-container {
+  border: 2px solid black;
+  padding: 5%;
+  width: 400px;
+  text-align: center;
+  margin-top: 30%;
+color:black;
+background-color:darkgoldenrod;
+}
+
+body {
+  background-color: slategray;
+}
+
+.parent-container input {
+  display: block;
+  width: 400px;
+  height: 40px;
+  margin-bottom: 10px; 
+  color:sandybrown;
+}
+
+.parent-container p {
+  color: red;
+}
+
+#Success {
+  color: rgb(23, 235, 23);
+  font-size: larger;
+  font-weight: 700;
+}
